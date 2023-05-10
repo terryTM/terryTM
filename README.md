@@ -1,20 +1,17 @@
 <div>
-  <h2>Hey, I'm Srikant👋</h2>
+  <h2>Hey, I'm Terry👋</h2>
    <div>
-    <a target="_blank" href="https://www.linkedin.com/in/srikant-vasudevan-811585193/">
+    <a target="_blank" href="https://www.linkedin.com/in/terry-ma-93b849149/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a target="_blank" href="https://www.youtube.com/channel/UC6PhncnyT93ZVK6iSip1Jug">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
     </a>
   </div>
   <h3>A little bit about me:</h3>
   <ul>
     <li>I am an undergraduate student at Georgia Tech</li>
-    <li>I am currently working on my <a target="_blank" href="https://www.github.com/srikantv03/graph-visualizer">matrix-based graph algorithm visualizer</a></li> 
+    <li>I am currently interested in Deep Learning especially LLMs and Transformers</li> 
     <li>I love working on all kinds of software projects ⚙️</li>
-    <li>I am looking to collaborate on any projects, but would specifically like to dive more into lower-level code 🖥️</li>
-    <li>In my free time, I like to weightlift 🏋️‍♂️, swim 🏊‍♂️ and play cards 🎴</li>
+    <li>I am looking to new and innovative technology 🖥️</li>
+    <li>In my free time, I like produce music 🎵, rock climb 🧗, and play cards 🎴</li>
   </ul>
   <h3>Tools and technologies I love working with:</h3>
   <div>
