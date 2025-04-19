@@ -7,7 +7,7 @@
   </div>
   <h3>A little bit about me:</h3>
   <ul>
-    <li>I am an undergraduate student at Georgia Tech</li>
+    <li>I am an PhD student in the school of computer science at CMU</li>
     <li>I am currently interested in Deep Learning especially LLMs and Transformers</li> 
     <li>I love working on all kinds of software projects ⚙️</li>
     <li>I am looking to new and innovative technology 🖥️</li>
